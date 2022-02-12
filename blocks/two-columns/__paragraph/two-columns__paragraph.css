@@ -1,6 +1,6 @@
 .two-columns__paragraph{
   margin-bottom: 30px;
 }
-.two-columns__paragraph:last-child{
+li:last-child .two-columns__paragraph{
   margin-bottom: 0px;
 }
