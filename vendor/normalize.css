@@ -347,3 +347,21 @@ template {
 [hidden] {
   display: none;
 }
+
+p,
+h1,
+h2,
+h3,
+h4,
+header,
+img,
+div,
+title,
+ul,
+li,
+footer,
+a {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}

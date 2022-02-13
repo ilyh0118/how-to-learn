@@ -1,8 +1,9 @@
 .feynman__image {
+    width: 867px;
+    height: 637px;
     position: absolute;
     left: 0;
     bottom: 0;
-    width: 867px;
-    height: 637px;
-    object-fit: cover;
+    object-fit: contain;
+    background-image: url(../../../images/feinman.png);
 }
