@@ -10,7 +10,11 @@
     transition: opacity 0.3s;
 }
 
-.footer__column-link:last-child {
+.footer__column_content_info .footer__column-link:last-child {
+    margin-bottom: 0px;
+}
+
+.footer__column_content_social .footer__column-links :last-child .footer__column-link:last-child {
     margin-bottom: 0px;
 }
 
